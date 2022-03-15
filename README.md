@@ -1,4 +1,4 @@
-**CRC algorithm, Java Implementation**
+# CRC algorithm, Java Implementation
 
 Σε αυτό το repository γίνεται υλοποίηση του αλγορίθμου ανίχνευσης σφαλμάτων CRC (Cyclic
 Redundancy Check- Κυκλικός Έλεγχος Πλεονασμού) ο οποίος επινοήθηκε και δημοσιεύθηκε από
